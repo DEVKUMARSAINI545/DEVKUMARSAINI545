@@ -22,7 +22,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,c++" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -32,7 +32,7 @@
 
 ### 🗄️ Databases & Monitoring
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,prometheus,grafana" />
 </p>
 
 ---
