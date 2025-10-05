@@ -12,7 +12,7 @@
 - AWS | Docker | Terraform | Jenkins | Linux | GitHub Actions
 
 ### 📈 GitHub Stats:
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsaini&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsaini&layout=compact&theme=tokyonight)
 
 ### 🌍 Connect with me:
-[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dev-saini-4432002b5/))
+[LinkedIn](https://www.linkedin.com/in/dev-saini-4432002b5/)
