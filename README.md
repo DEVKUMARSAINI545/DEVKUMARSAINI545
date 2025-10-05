@@ -72,7 +72,7 @@
   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-saini-4432002b5/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaini27806@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devsaini27806@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaini27806@gmail.com)
 
 </div>
 
