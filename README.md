@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Dev Saini!
 
-<!--
-**DEVKUMARSAINI545/DEVKUMARSAINI545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cloud & DevOps Enthusiast**  
+🏗️ Currently exploring AWS Cloud Architecture  
+🌱 Learning and building projects with Docker, Terraform & Kubernetes  
+⚡ Passionate about automation and scalability  
+📍 From Jaipur, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack:
+- AWS | Docker | Terraform | Jenkins | Linux | GitHub Actions
+
+### 📈 GitHub Stats:
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsaini&show_icons=true&theme=tokyonight)
+
+### 🌍 Connect with me:
+[LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dev-saini-4432002b5/))
