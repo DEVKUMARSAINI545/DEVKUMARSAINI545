@@ -1,18 +1,82 @@
-# 👋 Hi, I'm Dev Saini!
+<h1 align="center">Hello Dosto 👋, I'm Dev Saini</h1>
+<h3 align="center">🚀 Cloud & DevOps Enthusiast from 🇮🇳 India</h3>
 
-💻 **Cloud & DevOps Enthusiast**  
-🏗️ Currently exploring AWS Cloud Architecture  
-🌱 Learning and building projects with Docker, Terraform & Kubernetes  
-⚡ Passionate about automation and scalability  
-📍 From Jaipur, India  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E97F3&center=true&vCenter=true&width=600&lines=Building+future-ready+Cloud+Solutions+☁️;Automating+with+DevOps+tools+⚙️;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧰 Tech Stack:
-- AWS | Docker | Terraform | Jenkins | Linux | GitHub Actions
+## 🚀 About Me
 
-### 📈 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsaini&layout=compact&theme=tokyonight)
+- 💼 Aspiring **Cloud Solutions Architect & DevOps Engineer**
+- 🌱 Currently learning **AWS | Terraform | Kubernetes | Jenkins**
+- 🔭 Working on **cloud-native projects** and **real-world DevOps automations**
+- 💬 Ask me about **AWS, Docker, CI/CD, Terraform, and Cloud Architecture**
+- ⚡ Fun fact: I love exploring both **technology and real estate**
+- 🎯 Goal: To become a top **Cloud Engineer** and help others grow in tech
 
-### 🌍 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/dev-saini-4432002b5/)
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,terraform,linux" />
+</p>
+
+### 🗄️ Databases & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prometheus,grafana" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsaini&show_icons=true&theme=tokyonight" alt="Dev's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsaini&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsaini&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devsaini&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsaini&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/YOUR-LINK" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">💡 "Building the future, one deployment at a time"</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsaini&color=blue" alt="Profile views" />
+</p>
