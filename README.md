@@ -40,20 +40,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVKUMARSAINI545i&show_icons=true&theme=tokyonight" alt="Dev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVKUMARSAINI545&show_icons=true&theme=tokyonight" alt="Dev's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVKUMARSAINI545i&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVKUMARSAINI545&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVKUMARSAINI545i&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVKUMARSAINI545&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEVSKUMARSAINI545i&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DEVSKUMARSAINI545&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
