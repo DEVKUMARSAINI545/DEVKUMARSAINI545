@@ -60,7 +60,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVSKUMARSAINI545i&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVKUMARSAINI545&theme=tokyo-night" />
 </p>
 
 ---
