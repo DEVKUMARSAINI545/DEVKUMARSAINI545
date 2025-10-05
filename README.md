@@ -68,15 +68,22 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-saini-4432002b5/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:devsaini27806@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+<div align="center">
+  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-saini-4432002b5/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsaini27806@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">💡 "Building the future, one deployment at a time"</p>
+<div align="center">
+  
+### 💡 "Building the future, one deployment at a time" 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devsaini&color=blue" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=DEVKUMARSAINI545&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/DEVKUMARSAINI545?label=Follow&style=social)](https://github.com/DEVKUMARSAINI545)
+
+</div>
+
