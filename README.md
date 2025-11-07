@@ -13,7 +13,6 @@
 - 🌱 Currently learning **AWS | Terraform | Kubernetes | Jenkins**
 - 🔭 Working on **cloud-native projects** and **real-world DevOps automations**
 - 💬 Ask me about **AWS, Docker, CI/CD, Terraform, and Cloud Architecture**
-- ⚡ Fun fact: I love exploring both **technology and real estate**
 - 🎯 Goal: To become a top **Cloud Engineer** and help others grow in tech
 
 ---
